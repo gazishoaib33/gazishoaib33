@@ -1,7 +1,6 @@
 
 ### Hi there 👋, I am Gazi Shoaib
 #### Trainee Data Analyst
-![Trainee Data Analyst]
 
 *A recent Computer Science and Engineering graduate from North South University, I am embarking on a master’s journey at Jahangirnagar University with a passion for machine learning and data science. I am a budding data enthusiast with a strong foundation in computer science and a keen interest in uncovering insights through data analysis. My academic journey and project work have provided me with a solid grasp of data manipulation, statistical analysis, and visualization techniques.*
 
