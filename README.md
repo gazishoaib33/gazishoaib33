@@ -1,17 +1,42 @@
+### Hi there 👋, I am Gazi Shoaib  
+#### Aspiring Data Analyst | ML & Data Science Enthusiast
 
-### Hi there 👋, I am Gazi Shoaib
-#### Trainee Data Analyst
+I am a Computer Science and Engineering graduate from North South University and currently pursuing my Master’s in Applied Statistics & Data Science at Jahangirnagar University.  
+With a passion for data-driven problem solving, I enjoy exploring machine learning, statistical modeling, and analytics to uncover meaningful insights.
 
-*A recent Computer Science and Engineering graduate from North South University, I am embarking on a master’s journey at Jahangirnagar University with a passion for machine learning and data science. I am a budding data enthusiast with a strong foundation in computer science and a keen interest in uncovering insights through data analysis. My academic journey and project work have provided me with a solid grasp of data manipulation, statistical analysis, and visualization techniques.*
+I have completed my Data Analyst Internship at **Penta Global Limited (Dec 2024)**, where I worked on data cleaning, analysis, and reporting tasks that strengthened my practical understanding of real-world datasets.
 
+---
 
-Skills: *Knowledgeable in data analysis with Python (Pandas, NumPy, Matplotlib) - Experience with SQL for database querying - Understanding of data cleaning and preprocessing - Basic familiarity with machine learning concepts.*
+### 🧠 Skills & Tools
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Databases:** SQL (querying, joins, aggregations)  
+- **Data Skills:** Cleaning, preprocessing, EDA, visualization  
+- **ML Concepts:** Basic ML workflows, supervised models, feature engineering  
+- **Other:** Git/GitHub, Jupyter Notebook  
 
-- 🔭 I’m currently working on *Penta Global Limited as an Intern* 
-- 🌱 I’m currently learning **Machine Learning** 
-- ⚡ Fun fact: ~~Playing games~~ 
+---
 
+### 📌 What I’m Doing Now
+- 📘 Pursuing **MSc in Applied Statistics & Data Science**  
+- 🌱 Learning **Machine Learning & Data Engineering concepts**  
+- 🛠️ Working on ML/NLP/Data projects to sharpen my skills  
+- ⚡ Fun fact: ~~Playing games~~ now replaced with learning new tech every week 😄  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/gazishoaib33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@shoaib33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazi-shoaib-1291531a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/gazi.shoaib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_s_h_o_a_i_b_3/)  
+---
 
+### 🌐 Connect With Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/gazishoaib33)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' height='40'>](https://hashnode.com/@shoaib33)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/gazi-shoaib-1291531a4/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height='40'>](https://www.facebook.com/gazi.shoaib)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height='40'>](https://www.instagram.com/_s_h_o_a_i_b_3/)  
 
+---
+
+### 📈 Looking Ahead
+I aim to build a strong career in **Data Analysis, Machine Learning, and Business Intelligence**, combining my academic training with hands-on projects.
+
+---
+
+⭐ **Thanks for visiting my profile!**
