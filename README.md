@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Gazi Shoaib  
 #### Aspiring Data Analyst | ML & Data Science Enthusiast
 
-I am a Computer Science and Engineering graduate from North South University and currently pursuing my Master’s in Applied Statistics & Data Science at Jahangirnagar University.  
-With a passion for data-driven problem solving, I enjoy exploring machine learning, statistical modeling, and analytics to uncover meaningful insights.
-
-I have completed my Internship at **Penta Global Limited (Dec 2024)**, where I worked on data cleaning, analysis, and reporting tasks that strengthened my practical understanding of real-world datasets.
+I am a Computer Science & Engineering graduate from North South University and MSc graduate in Applied Statistics & Data Science from Jahangirnagar University.
+Passionate about data-driven problem solving, with interests in machine learning, statistical modeling, and data analytics.
+Completed an internship at Penta Global Limited (Dec 2024), working on data cleaning, analysis, and reporting using real-world datasets.
 
 ---
 
