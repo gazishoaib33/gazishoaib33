@@ -3,6 +3,7 @@
 
 I am a Computer Science & Engineering graduate from North South University and MSc graduate in Applied Statistics & Data Science from Jahangirnagar University.
 Passionate about data-driven problem solving, with interests in machine learning, statistical modeling, and data analytics.
+
 Completed an internship at Penta Global Limited (Dec 2024), working on data cleaning, analysis, and reporting using real-world datasets.
 
 ---
