@@ -114,9 +114,8 @@ BSc  Computer Science & Engineering       North South University       Dec 2023
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gazishoaib33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070d18&title_color=00e5ff&icon_color=7c3aed&text_color=e3eaf7&count_private=true&cache_seconds=1800" alt="Gazi's GitHub Stats" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishoaib33&layout=compact&theme=tokyonight&hide_border=true&bg_color=070d18&title_color=00e5ff&text_color=e3eaf7&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gazishoaib33&theme=tokyonight" alt="Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishoaib33&theme=tokyonight" alt="Top Languages" height="170"/>
 
 </div>
 
